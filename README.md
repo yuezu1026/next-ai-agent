@@ -6,3 +6,5 @@ Live-first Agent Runtime: From Conversation to On-demand Execution”愿景:用�
 
 
 核心框架- 人表达意图,方向和价值; AI 吸收复杂度,负责理解、规划、组织、执行和演进;算力按需出现,临时组建,用完即释放;用户与系统通过自然对话持续迭代,而不是一次性需求。结构分层:端侧轻量 Live 模型,负责长期记忆、隐私过滤和意图分诊;编排层把对话转成规格、任务和验收标准;云端 Cloud Agents 并行执行、长时间任务、工具调用;观察 Agent持续感知问题,形成改进闭环;基本法--隐私、用户授权、安全、可审计、可回滚是不可被自动演进突破的边界。一切都可以演进,但约束演进的原则不能被演进本身轻易改变
+
+Live-first Agent Runtime: From Conversation to On-demand Execution
